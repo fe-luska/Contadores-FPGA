@@ -3,8 +3,8 @@
 Este repositório contém projetos Quartus, códigos VHDL e simulações referentes à prática de implementação de contadores síncronos e assíncronos usando flip-flops T e registros, realizados em uma FPGA da série DE0-CV.
 
 # Integrantes
-Fernando Lucas Vieira Souza - 12703069
-Artyr Oliveira Arraes - 14745532
+- Fernando Lucas Vieira Souza - 12703069
+- Artyr Oliveira Arraes - 14745532
 
 ## Estrutura do Projeto
 
